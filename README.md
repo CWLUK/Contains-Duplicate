@@ -1,2 +1,1 @@
-# Contains-Duplicate
-Array Hash Table Sorting
+https://leetcode.com/problems/contains-duplicate
